@@ -37,6 +37,9 @@ qihucdn.com:
 qaxwzws.com:
   name: 奇安信网站卫士
   link: https://wangzhan.qianxin.com
+qaxcloudwaf.com:
+  name: 奇安信网神防火墙
+  link: https://www.legendsec.com
 akamai.net:
   name: Akamai CDN
   link: https://www.akamai.com
@@ -472,6 +475,9 @@ qnydns.com:
 qnqcdn.net:
   name: 滥用Cloudflare的七牛云
   link: https://www.qiniu.com
+qnqcdn.net:
+  name: 滥用Cloudflare的七牛云
+  link: hiecheimaetu.com
 cy-isp.com：
   name: 橙域 CDN
   link: https://www.asia-isp.com
@@ -1072,6 +1078,3 @@ amazonaws.com.cn:
 backblazeb2.com:
   name: BackBlaze对象储存
   link: https://www.backblaze.com
-ngaagslb.net:
-  name: 新流云
-  link: https://www.ksyun.com/post/product/CDN
