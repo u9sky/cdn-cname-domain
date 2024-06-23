@@ -523,6 +523,9 @@ ucloud.com.cn:
 cdndo.com:
   name: UCloud CDN
   link: https://www.ucloud.cn/site/product/ucdn.html
+zengslb.com:
+  name: Zenlayer CDN
+  link: https://www.zenlayer.com
 zenlogic.net:
   name: Zenlayer CDN
   link: https://www.zenlayer.com
