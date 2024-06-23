@@ -161,9 +161,9 @@ workers.dev:
   name: Cloudflare Workers
   link: https://www.cloudflare.com/developer-platform/workers
 pages.dev:
-  name: Cloudflare Workers
+  name: Cloudflare Pages
   link: https://www.cloudflare.com/developer-platform/pages
-vercel.app
+vercel.app:
   name: Vercel
   link: https://vercel.com
 ppio.cloud:
@@ -352,6 +352,12 @@ trpcdn.net:
 bsccdn.net:
   name: 白山云 CDN
   link: https://zh.baishancloud.com/
+eccdnx.com:
+  name: 白山云 CDN
+  link: https://zh.baishancloud.com/
+saxyit.com:
+  name: 白山云鲁班 PCDN
+  link: https://zh.baishancloud.com/
 anquan.io:
   name: 牛盾云安全
   link: https://www.newdefend.com
@@ -473,12 +479,12 @@ qnydns.com:
   name: 七牛云
   link: https://www.qiniu.com
 qnqcdn.net:
-  name: 滥用Cloudflare的七牛云
+  name: 七牛云
   link: https://www.qiniu.com
-qnqcdn.net:
-  name: 滥用Cloudflare的七牛云
-  link: hiecheimaetu.com
-cy-isp.com：
+hiecheimaetu.com:
+  name: 七牛云
+  link: https://www.qiniu.com
+cy-isp.com:
   name: 橙域 CDN
   link: https://www.asia-isp.com
 71edge.com:
