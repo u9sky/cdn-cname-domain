@@ -121,6 +121,9 @@ bdydns.com:
 jomodns.com:
   name: 百度云 CDN
   link: https://cloud.baidu.com/product/cdn.html
+baidupcs.com:
+  name: 百度网盘
+  link: https://pan.baidu.com/
 ccgslb.com.cn:
   name: 蓝汛 CDN
   link: https://cn.chinacache.com/
@@ -148,11 +151,23 @@ wswebcdn.com:
 lxdns.com:
   name: 网宿 CDN
   link: https://www.wangsu.com/
+8686c.com:
+  name: 网宿 CDN
+  link: https://www.wangsu.com/
 wswebpic.com:
   name: 网宿 CDN
   link: https://www.wangsu.com/
+qtlglb.com:
+  name: 网宿海外 CDN
+  link: https://www.wangsu.com/
 cloudflare.net:
   name: Cloudflare
+  link: https://www.cloudflare.com
+cloudflare.com:
+  name: Cloudflare
+  link: https://www.cloudflare.com
+cloudflarestorage.com:
+  name: Cloudflare对象储存
   link: https://www.cloudflare.com
 cf-ns.net:
   name: Cloudflare中国
@@ -490,6 +505,9 @@ baishancloud.net:
 revivalark.com:
   name: 白山云 CDN
   link: https://www.baishan.com
+wanwang.space:
+  name: 白山云 CDN
+  link: https://www.baishan.com
 anquan.io:
   name: 牛盾云安全
   link: https://www.newdefend.com
@@ -679,6 +697,9 @@ alidns.com:
 alidns.cn:
   name: 阿里云 DNS
   link: https://www.aliyun.com/product/dns
+queniujq.cn:
+  name: 阿里云 CDN
+  link: https://www.aliyun.com/product/cdn
 gtm-a[1-7]b[1-9].com:
   name: 阿里云全局流量管理
   link: https://help.aliyun.com/document_detail/283229.html
@@ -817,6 +838,9 @@ edgecastcdn.net:
 zetacdn.net:
   name: Verizon CDN (Edgecast)
   link: https://www.verizondigitalmedia.com/platform/edgecast-cdn/
+comcast.net:
+  name: Verizon CDN (Edgecast)
+  link: https://www.verizondigitalmedia.com/platform/edgecast-cdn/
 coding.io:
   name: Coding Pages
   link: https://coding.net/pages
@@ -938,34 +962,34 @@ quic.cloud:
   name: QUIC.Cloud
   link: https://quic.cloud/
 flexbalancer.net:
-  name: "FlexBalancer - Smart Traffic Routing"
+  name: FlexBalancer - Smart Traffic Routing
   link: https://perfops.net/flexbalancer
 gcdn.co:
-  name: "G - Core Labs"
+  name: G - Core Labs
   link: https://gcorelabs.com/cdn/
 sangfordns.com:
-  name: "深信服 AD 系列应用交付产品  单边加速解决方案"
+  name: 深信服 AD 系列应用交付产品  单边加速解决方案
   link: http://www.sangfor.com.cn/topic/2011adn/solutions5.html
 stspg-customer.com:
-  name: "StatusPage.io"
+  name: StatusPage.io
   link: https://www.statuspage.io
 turbobytes.net:
-  name: "TurboBytes Multi-CDN"
+  name: TurboBytes Multi-CDN
   link: https://www.turbobytes.com
 turbobytes-cdn.com:
-  name: "TurboBytes Multi-CDN"
+  name: TurboBytes Multi-CDN
   link: https://www.turbobytes.com
 att-dsa.net:
-  name: "AT&T Content Delivery Network"
+  name: AT&T Content Delivery Network
   link: https://www.business.att.com/products/cdn.html
 azioncdn.net:
   name: "Azion Tech | Edge Computing PLatform"
   link: https://www.azion.com
 belugacdn.com:
-  name: "BelugaCDN"
+  name: BelugaCDN
   link: https://www.belugacdn.com
 cachefly.net:
-  name: "CacheFly CDN"
+  name: CacheFly CDN
   link: https://www.cachefly.com/
 inscname.net:
   name: Instart CDN
@@ -1183,6 +1207,12 @@ cloudfence.cn:
 ngaagslb.cn:
   name: 新流云（新流万联）
   link: https://www.ngaa.com.cn
+ngaagslb.net:
+  name: 新流云（新流万联）
+  link: https://www.ngaa.com.cn
+clngaa.com:
+  name: 新流云（新流万联）
+  link: https://www.ngaa.com.cn
 p2cdn.com:
   name: 迅雷星域云PCDN
   link: https://www.xycloud.com
@@ -1213,6 +1243,24 @@ google.com:
 ncname.com:
   name: NodeCache
   link: https://www.nodecache.com
+steamstatic.com:
+  name: SteamCDN
+  limk: https://store.steampowered.com/
+steamserver.net:
+  name: SteamCDN
+  limk: https://store.steampowered.com/
+steamcontent.com:
+  name: SteamCDN
+  limk: https://store.steampowered.com/
+valvesoftware.com:
+  name: SteamCDN
+  limk: https://store.steampowered.com/
+pphimalayanrt.com:
+  name: SteamCDN（中国大陆）
+  limk: https://store.steampowered.com/
+steamchina.com：
+  name: SteamCDN（中国大陆）
+  limk: https://store.steampowered.com/
 alipaydns.com:
   name: 蚂蚁金服旗下业务地域负载均衡系统
   link: https://lab.skk.moe/cdn/
