@@ -1,8 +1,8 @@
 15cdn.com:
-  name: 腾正安全加速（原 15CDN）
+  name: 腾正安全加速(原 15CDN)
   link: https://www.15cdn.com
 tzcdn.cn:
-  name: 腾正安全加速（原 15CDN）
+  name: 腾正安全加速(原 15CDN)
   link: https://www.15cdn.com
 cedexis.net:
   name: Cedexis GSLB
@@ -64,8 +64,14 @@ edgekey.net:
 akam.net:
   name: Akamai CDN
   link: https://www.akamai.com
+akagtm.org:
+  name: Akamai CDN
+  link: https://www.akamai.com
+akamaistream.net:
+  name: Akamai CDN
+  link: https://www.akamai.com
 tl88.net:
-  name: 易通锐进（Akamai 中国）由网宿承接
+  name: 易通锐进(Akamai 中国)由网宿承接
   link: https://www.akamai.com
 cloudfront.net:
   name: AWS CloudFront
@@ -187,6 +193,9 @@ ppio.cloud:
 akadns.net:
   name: Akamai CDN
   link: https://www.akamai.com
+akamaihd.net:
+  name: Akamai CDN
+  link: https://www.akamai.com
 chinanetcenter.com:
   name: 网宿 CDN
   link: https://www.wangsu.com
@@ -272,10 +281,10 @@ cloudapp.net:
   name: Microsoft Azure
   link: https://azure.microsoft.com
 chinacloudsites.cn:
-  name: 世纪互联旗下上海蓝云（承载 Azure 中国）
+  name: 世纪互联旗下上海蓝云(承载 Azure 中国)
   link: https://www.21vbluecloud.com/
 chinacloudapi.cn:
-  name: 世纪互联旗下上海蓝云（承载 Azure 中国）
+  name: 世纪互联旗下上海蓝云(承载 Azure 中国)
   link: https://www.21vbluecloud.com/
 spdydns.com:
   name: 云端智度融合 CDN
@@ -287,7 +296,7 @@ jiasule.org:
   name: 知道创宇云安全加速乐CDN
   link: https://www.yunaq.com/jsl/
 365cyd.cn:
-  name: 知道创宇云安全创宇盾（政务专用）
+  name: 知道创宇云安全创宇盾(政务专用)
   link: https://www.yunaq.com/cyd/
 myhuaweicloud.com:
   name: 华为云 对象储存
@@ -685,6 +694,24 @@ yundunddos.com:
 kunlun[^.]+.com:
   name: 阿里云 CDN
   link: https://www.aliyun.com/product/cdn
+queniucdn.com.cn:
+  name: 阿里云 CDN
+  link: https://www.aliyun.com/product/cdn
+queniugslb.com.cn:
+  name: 阿里云 CDN
+  link: https://www.aliyun.com/product/cdn
+edgegslb.cn:
+  name: 阿里云 CDN
+  link: https://www.aliyun.com/product/cdn
+starsea[^.]+.cn:
+  name: 阿里云 CDN
+  link: https://www.aliyun.com/product/cdn
+queniu[^.]+.com:
+  name: 阿里云 CDN
+  link: https://www.aliyun.com/product/cdns
+queniu[^.]+.cn:
+  name: 阿里云 CDN
+  link: https://www.aliyun.com/product/cdn
 cdngslb.com:
   name: 阿里云 CDN
   link: https://www.aliyun.com/product/cdn
@@ -853,12 +880,18 @@ gitlab.io:
 github.io:
   name: GitHub Pages
   link: https://pages.github.com/
+githubusercontent.com:
+  name: GitHub CDN
+  link: https://github.com/
 herokuapp.com:
   name: Heroku SaaS
   link: https://www.heroku.com
 googleapis.com:
   name: Google Cloud Storage
   link: https://cloud.google.com/storage/
+googlevideo.com:
+  name: YouTube
+  link: https://www.youtube.com
 netdna.com:
   name: Stackpath (原 MaxCDN)
   link: https://www.stackpath.com/maxcdn/
@@ -885,9 +918,1059 @@ dayugslb.com:
   link: https://cloud.tencent.com/product/ddos-advanced
 tcdnvod.com:
   name: 腾讯云视频 CDN
-  link: https://lab.skk.moe/cdn
+  link: https://cloud.tencent.com/product/cdn-scd
 tdnsv[1-9].com:
   name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+cq-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+cq-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+cq-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+cq-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+csec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+csec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+csec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+csec-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+cunistatic.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+de-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+de-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+de-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+de-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+dothework.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+eo-edgefunctions.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+eo-edgefunctions.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+eo-preview.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+eo-shieldspace.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+eo-vpcgw.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+fspstc.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+fzec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+fzec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+fzec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+fzec-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gaapqcloud.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gdzmjs.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+geekpwn.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+govtcloud.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gsadds.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gtm.pub:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gzopen-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gzopen-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gzopen-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gzopen-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gz-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gz-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gz-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gz-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gzwxzf-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gzwxzf-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gzwxzf-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gzwxzf-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+haoyunbase.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hfeec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hfeec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hfeec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hfeec-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hk-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hk-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hk-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hk-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hotwon.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hotwon.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hotwon.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hotwoncdn.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hr-welink.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hy-clouds.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hzec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hzec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hzec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+hzec-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+igtm.pub:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+igtm-meeting-tencent.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+igtm-meeting-tencent.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+in-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+in-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+in-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+in-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+isd.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jkt-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jkt-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jkt-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jkt-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jnec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jnec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jnec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jnec-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jp-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jp-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jp-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jp-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+jrzk.net.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+kbrfyw.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+kgsmpj.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+kr-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+kr-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+kr-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+kr-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+lwtsdr.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+manyou.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+max-fame.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+mps.live:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+myelasticsearch.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+newglaw.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+nj-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+nj-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+nj-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+nj-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+nkfmsp.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+nkwjag.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+nrshog.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+paicang.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+phyto-ceuticals.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+plusrtc.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcdnlog.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudcdnsrc.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudcdntest.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudcjgj.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudclass.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloud-edumall.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudmarket.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudocdn.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudtcic.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudwaf.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudwzgj.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qcloudzygj.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qeodns.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qeodns.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qlivertc.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qlivertc.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qlivertc2.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qlivertc2.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qlivewebrtc.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qlivewebrtc.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qlivewebrtc2.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qlivewebrtc2.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qqmra.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qqmra.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qtmhcj119.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qy-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qy-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qy-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qy-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qyxa-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qyxa-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qyxa-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qyxa-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+rwph.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sao-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sao-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sao-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sao-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sg-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sg-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sg-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sg-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shadc-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shadc-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shadc-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shadc-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sheec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sheec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sheec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sheec-tencentclb.work:  
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shjr-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shjr-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shjr-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shjr-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sh-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sh-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sh-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sh-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shwxzf-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shwxzf-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shwxzf-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+shwxzf-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sjwec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sjwec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sjwec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+sjwec-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+srccdn.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+srccdn2.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szjr-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szjr-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szjr-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szjr-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szjxcft-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szjxcft-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szjxcft-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szjxcft-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szsycft-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szsycft-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szsycft-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szsycft-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szx-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szx-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szx-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+szx-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+taihu.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tcloudbh.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tclouddrive.com:  
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tcloudlive.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tcloudlive.com:  
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tcloudscdn.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tcloudscdn.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tdnsx1.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tenant-zone-dev.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentapigw.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentapigw.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentapigw.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentbyod.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcdb.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcdb.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcdb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.cc:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.host:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.info:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.link:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.net.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.online:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.plus:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.pro:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.site:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.space:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.team:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.tech:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.top:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.vip:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentclb.zone:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcloud-aiot.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcloudcore.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcloudcore.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcloudcr.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcloudlive.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcloudlive.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcloudmarket.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcloudsso.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentcloudsso.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentdb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentelasticsearch.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentelasticsearch.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentelasticsearch.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentes.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentes.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentes.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencenticp.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencenticp.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencenticp.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentiotcloud.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentiotmedia.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentproxy.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentscf.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentscf.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentscf.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentsmhuc.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentsmhuc.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentsmhuc.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencenttcr.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencenttcr.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencenttcr.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencenttione.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentvpc.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentvpc.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentvpc.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tencentwemeet.club:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+testjrzk.net.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+testmeet.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+testwaf.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tez-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tez-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tez-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+th-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+th-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+th-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+th-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+timatrix.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+timmerse.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tlive[^.]+.com:
+  name: 腾讯云直播 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tlive[^.]+.cn:
+  name: 腾讯云直播 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tmcyx.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tourismshow.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tourismuser.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tpe-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tpe-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tpe-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tpe-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+trtcrecover.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tsn-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tsn-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tsn-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tsn-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tsparkling.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tvodapi.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+tvodapibk.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txbyod.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txcloudlive.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txcloudlive.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txelive.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txelive.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txelvb.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txelvb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txlivecdn2.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txmdru.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txtyxg.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txyscdn.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+txyscdn.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+univod.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+use-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+use-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+use-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+use-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+usw-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+usw-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+usw-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+usw-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vigtm-meeting-tencent.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vigtm-meeting-tencent.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vodapis.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vodapisbk.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vod-bk-qcloud.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vodeoapi.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vodeoapibk.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vodeointernal.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vodinternal.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vodinternalbk.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+vodxl-qcloud.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+voovmeeting.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+wework-pro.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+wework-studio.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+whec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+whec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+whec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+whec-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+whyrtc.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+winner.hn.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+wxlagame.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xbec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xbec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xbec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xbec-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xiyec-tencentclb.cloud:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xiyec-tencentclb.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xiyec-tencentclb.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xiyec-tencentclb.work:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xmu.edu.cn:  
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xrgaui.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+yeswan.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+ylgyljr.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+yufuid.com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+yufuid.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+yufuid.net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+yunjitele.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+zjjj1.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+zxlkbw.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+qpic.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+xek.tech:
+  name: 腾讯云小鹅通 CDN
   link: https://cloud.tencent.com/product/cdn-scd
 tdnsv1[0-5].com:
   name: 腾讯云 CDN
@@ -928,6 +2011,24 @@ ho-wan.cn:
 qcloudcdn.com:
   name: 腾讯云 CDN
   link: https://cloud.tencent.com/product/cdn-scd
+dnse[0-9].com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+dnse[0-9].cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+dnse[0-9].net:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+eo-edgefunctions.com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+eo-edgefunctions[1-9].com:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
+gaapqcloudbackup0[1-3].com.cn:
+  name: 腾讯云 CDN
+  link: https://cloud.tencent.com/product/cdn-scd
 ksyuncdn.com:
   name: 金山云 CDN
   link: https://www.ksyun.com/post/product/CDN
@@ -935,7 +2036,7 @@ ks-cdn.com:
   name: 金山云 CDN
   link: https://www.ksyun.com/post/product/CDN
 kcdnvip.com:
-  name: 央视国际网络 金山云 CDN
+  name: 金山云 CDN
   link: https://www.ksyun.com/post/product/CDN
 ksyuncdn-k1.com:
   name: 金山云 CDN
@@ -1041,10 +2142,10 @@ zenedge.net:
   link: https://cdn.tatacommunications.com
 biliapi.com:
   name: Bilibili 业务 GSLB
-  link: https://lab.skk.moe/cdn
+  link: https://www.bilibili.com
 bilicdn1.com:
   name: Bilibili 业务 GSLB
-  link: https://lab.skk.moe/cdn
+  link: https://www.bilibili.com
 hdslb.net:
   name: Bilibili 高可用负载均衡
   link: https://github.com/bilibili/overlord
@@ -1061,32 +2162,35 @@ szbdyd.com:
   name: 哔哩哔哩视频点播系统PCDN
   link: https://www.bilibili.com
 nodeedge.cn:
-  name: PCDN视频分发
-  link: https://lab.skk.moe/cdn
+  name: 长沙市摩根网络科技有限公司PCDN
+  link: https://www.nodeedge.cn/aboutus
 nodecdn.cn:
-  name: PCDN视频分发
-  link: https://lab.skk.moe/cdn
+  name: 长沙市摩根网络科技有限公司PCDN
+  link: https://www.nodeedge.cn/aboutus
+mogencloud.com:
+  name: 长沙市摩根网络科技有限公司
+  link: https://www.nodeedge.cn/aboutus
 xwaf.cn:
-  name: 极御云安全（浙江壹云云计算有限公司）
+  name: 极御云安全(浙江壹云云计算有限公司)
   link: https://www.stopddos.cn
 shifen.com:
   name: 百度旗下业务地域负载均衡系统
-  link: https://lab.skk.moe/cdn
+  link: https://www.baidu.com
 sinajs.cn:
   name: 新浪静态域名
-  link: https://lab.skk.moe/cdn
+  link: https://www.sina.com.cn
 tencent-cloud.net:
   name: 腾讯旗下业务地域负载均衡系统
-  link: https://lab.skk.moe/cdn
+  link: https://peering.qq.com/
 elemecdn.com:
   name: 饿了么静态域名与地域负载均衡
   link: https://lab.skk.moe/cdn
 sinaedge.com:
   name: 新浪科技融合CDN负载均衡
-  link: https://lab.skk.moe/cdn
+  link: https://www.sina.com.cn
 sina.com.cn:
   name: 新浪科技融合CDN负载均衡
-  link: https://lab.skk.moe/cdn
+  link: https://www.sina.com.cn
 sinacdn.com:
   name: 新浪云 CDN
   link: https://www.sinacloud.com/doc/sae/php/cdn.html
@@ -1148,19 +2252,19 @@ txcdn.cn:
   name: 北京同兴万点网络技术
   link: http://www.txnetworks.cn/
 cdnunion.net:
-  name: 宝腾互联旗下上海万根网络（CDN 联盟）
+  name: 宝腾互联旗下上海万根网络(CDN 联盟)
   link: http://www.cdnunion.com
 cdnunion.com:
-  name: 宝腾互联旗下上海万根网络（CDN 联盟）
+  name: 宝腾互联旗下上海万根网络(CDN 联盟)
   link: http://www.cdnunion.com
 mygslb.com:
-  name: 宝腾互联旗下上海万根网络（YaoCDN）
+  name: 宝腾互联旗下上海万根网络(YaoCDN)
   link: http://www.vangen.cn
 cdnudns.com:
-  name: 宝腾互联旗下上海万根网络（YaoCDN）
+  name: 宝腾互联旗下上海万根网络(YaoCDN)
   link: http://www.vangen.cn
 sprycdn.com:
-  name: 宝腾互联旗下上海万根网络（YaoCDN）
+  name: 宝腾互联旗下上海万根网络(YaoCDN)
   link: http://www.vangen.cn
 chuangcdn.com:
   name: 创世云融合 CDN
@@ -1184,34 +2288,34 @@ yfcdn.net:
   name: 云帆加速CDN
   link: https://www.yfcloud.com
 mmycdn.cn:
-  name: 蛮蛮云 CDN（中联利信）
+  name: 蛮蛮云 CDN(中联利信)
   link: https://www.chinamaincloud.com/cloudDispatch.html
 chinamaincloud.com:
-  name: 蛮蛮云 CDN（中联利信）
+  name: 蛮蛮云 CDN(中联利信)
   link: https://www.chinamaincloud.com/cloudDispatch.html
 cnispgroup.com:
-  name: 中联数据（中联利信）
+  name: 中联数据(中联利信)
   link: http://www.cnispgroup.com/
 cdnle.com:
-  name: 新乐视云联（原乐视云）CDN
+  name: 新乐视云联(原乐视云)CDN
   link: http://www.lecloud.com/zh-cn
 gosuncdn.com:
   name: 高升控股CDN技术
   link: http://www.gosun.com
 mmtrixopt.com:
-  name: mmTrix性能魔方（高升控股旗下）
+  name: mmTrix性能魔方(高升控股旗下)
   link: http://www.mmtrix.com
 cloudfence.cn:
   name: 蓝盾云CDN
   link: https://www.cloudfence.cn/#/cloudWeb/yaq/yaqyfx
 ngaagslb.cn:
-  name: 新流云（新流万联）
+  name: 新流云(新流万联)
   link: https://www.ngaa.com.cn
 ngaagslb.net:
-  name: 新流云（新流万联）
+  name: 新流云(新流万联)
   link: https://www.ngaa.com.cn
 clngaa.com:
-  name: 新流云（新流万联）
+  name: 新流云(新流万联)
   link: https://www.ngaa.com.cn
 p2cdn.com:
   name: 迅雷星域云PCDN
@@ -1220,10 +2324,10 @@ p2cdn.com:
   name: 迅雷星域云PCDN
   link: https://www.xycloud.com
 sankuai.com:
-  name: 美团云（三快科技）负载均衡
+  name: 美团云(三快科技)负载均衡
   link: https://www.mtyun.com
 lccdn.org:
-  name: 领智云 CDN（杭州领智云画）
+  name: 领智云 CDN(杭州领智云画)
   link: http://www.linkingcloud.com
 nscloudwaf.com:
   name: 绿盟云 WAF
@@ -1236,10 +2340,10 @@ ucloudgda.com:
   link: https://www.ucloud.cn/site/product/rome.html
 google.com:
   name: Google Web 业务
-  link: https://lab.skk.moe/cdn
+  link: https://www.google.com/about/datacenters/
 1e100.net:
   name: Google Web 业务
-  link: https://lab.skk.moe/cdn
+  link: https://www.google.com/about/datacenters/
 ncname.com:
   name: NodeCache
   link: https://www.nodecache.com
@@ -1256,16 +2360,16 @@ valvesoftware.com:
   name: SteamCDN
   limk: https://store.steampowered.com/
 pphimalayanrt.com:
-  name: SteamCDN（中国大陆）
+  name: SteamCDN(中国大陆)
   limk: https://store.steampowered.com/
 steamchina.com:
-  name: SteamCDN（中国大陆）
+  name: SteamCDN(中国大陆)
   limk: https://store.steampowered.com/
 alipaydns.com:
   name: 蚂蚁金服旗下业务地域负载均衡系统
   link: https://lab.skk.moe/cdn/
 wscloudcdn.com:
-  name: 全速云（网宿）CloudEdge 云加速
+  name: 全速云(网宿)CloudEdge 云加速
   link: https://www.quansucloud.com/product.action?product.id=270
 cdngtm.com:
   name: 网宿 CDN
